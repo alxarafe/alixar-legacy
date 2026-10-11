@@ -1,5 +1,9 @@
 # Alixar ERP/CRM
 
+> **Archived project**
+> This repository contains the first-generation Alixar modernization experiment based on PHP and Vue. It is preserved as historical and compatibility research material and is no longer developed.
+> The current Alixar ERP backend is being rebuilt from scratch at [alxarafe/alixar](https://github.com/alxarafe/alixar).
+
 > **🚀 Portfolio Showcase & Architectural Modernization**
 > This repository is a technical showcase developed and led by **Rafael San José**.
 > It demonstrates the end-to-end modernization of a legacy PHP monolithic system into a highly decoupled, scalable platform.
